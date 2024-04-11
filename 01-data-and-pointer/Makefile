@@ -1,0 +1,3 @@
+run:
+	go build -o bin/main -v ./...
+	./bin/main
